@@ -1,4 +1,4 @@
-# landing-page-desafio 1
+# Landing Page para escritório de Arquitetura
 Este é o desafio do módulo base da Formação de Tecnologia da Escola DNC.
 
 Link do site disponibilizado: https://pagina-arquitetura.netlify.app/
